@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/mrnnwndrlnd/marina17.git/static/css/main.1700a511.chunk.css",
+    "main.js": "/mrnnwndrlnd/marina17.git/static/js/main.bb6ecf21.chunk.js",
+    "main.js.map": "/mrnnwndrlnd/marina17.git/static/js/main.bb6ecf21.chunk.js.map",
+    "runtime-main.js": "/mrnnwndrlnd/marina17.git/static/js/runtime-main.c54a37a4.js",
+    "runtime-main.js.map": "/mrnnwndrlnd/marina17.git/static/js/runtime-main.c54a37a4.js.map",
+    "static/js/2.53ffe8ac.chunk.js": "/mrnnwndrlnd/marina17.git/static/js/2.53ffe8ac.chunk.js",
+    "static/js/2.53ffe8ac.chunk.js.map": "/mrnnwndrlnd/marina17.git/static/js/2.53ffe8ac.chunk.js.map",
+    "static/css/3.b476e9f9.chunk.css": "/mrnnwndrlnd/marina17.git/static/css/3.b476e9f9.chunk.css",
+    "static/js/3.c85e0238.chunk.js": "/mrnnwndrlnd/marina17.git/static/js/3.c85e0238.chunk.js",
+    "static/js/3.c85e0238.chunk.js.map": "/mrnnwndrlnd/marina17.git/static/js/3.c85e0238.chunk.js.map",
+    "static/css/4.eef28789.chunk.css": "/mrnnwndrlnd/marina17.git/static/css/4.eef28789.chunk.css",
+    "static/js/4.d6eea3aa.chunk.js": "/mrnnwndrlnd/marina17.git/static/js/4.d6eea3aa.chunk.js",
+    "static/js/4.d6eea3aa.chunk.js.map": "/mrnnwndrlnd/marina17.git/static/js/4.d6eea3aa.chunk.js.map",
+    "index.html": "/mrnnwndrlnd/marina17.git/index.html",
+    "precache-manifest.9dcf25084a8189849964b851c37f6bfd.js": "/mrnnwndrlnd/marina17.git/precache-manifest.9dcf25084a8189849964b851c37f6bfd.js",
+    "service-worker.js": "/mrnnwndrlnd/marina17.git/service-worker.js",
+    "static/css/3.b476e9f9.chunk.css.map": "/mrnnwndrlnd/marina17.git/static/css/3.b476e9f9.chunk.css.map",
+    "static/css/4.eef28789.chunk.css.map": "/mrnnwndrlnd/marina17.git/static/css/4.eef28789.chunk.css.map",
+    "static/css/main.1700a511.chunk.css.map": "/mrnnwndrlnd/marina17.git/static/css/main.1700a511.chunk.css.map",
+    "static/js/2.53ffe8ac.chunk.js.LICENSE.txt": "/mrnnwndrlnd/marina17.git/static/js/2.53ffe8ac.chunk.js.LICENSE.txt",
+    "static/media/krolichek_white.svg": "/mrnnwndrlnd/marina17.git/static/media/krolichek_white.26840400.svg",
+    "static/media/loader.png": "/mrnnwndrlnd/marina17.git/static/media/loader.1e473c9c.png",
+    "static/media/ProfileInfo.module.css": "/mrnnwndrlnd/marina17.git/static/media/shapes-bg.f7cdaf55.png",
+    "static/media/user.png": "/mrnnwndrlnd/marina17.git/static/media/user.1e976c46.png",
+    "static/media/wonderland_logo.png": "/mrnnwndrlnd/marina17.git/static/media/wonderland_logo.e207211f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c54a37a4.js",
+    "static/js/2.53ffe8ac.chunk.js",
+    "static/css/main.1700a511.chunk.css",
+    "static/js/main.bb6ecf21.chunk.js"
+  ]
+}
