@@ -1,25 +1,21 @@
 {
   "files": {
-    "main.css": "/marina17/static/css/main.1700a511.chunk.css",
-    "main.js": "/marina17/static/js/main.df1d5670.chunk.js",
-    "main.js.map": "/marina17/static/js/main.df1d5670.chunk.js.map",
-    "runtime-main.js": "/marina17/static/js/runtime-main.17ea16f9.js",
-    "runtime-main.js.map": "/marina17/static/js/runtime-main.17ea16f9.js.map",
-    "static/js/2.84caf9ee.chunk.js": "/marina17/static/js/2.84caf9ee.chunk.js",
-    "static/js/2.84caf9ee.chunk.js.map": "/marina17/static/js/2.84caf9ee.chunk.js.map",
-    "static/css/3.b476e9f9.chunk.css": "/marina17/static/css/3.b476e9f9.chunk.css",
-    "static/js/3.f9227f25.chunk.js": "/marina17/static/js/3.f9227f25.chunk.js",
-    "static/js/3.f9227f25.chunk.js.map": "/marina17/static/js/3.f9227f25.chunk.js.map",
-    "static/css/4.e66c67d1.chunk.css": "/marina17/static/css/4.e66c67d1.chunk.css",
-    "static/js/4.76aa339b.chunk.js": "/marina17/static/js/4.76aa339b.chunk.js",
-    "static/js/4.76aa339b.chunk.js.map": "/marina17/static/js/4.76aa339b.chunk.js.map",
+    "main.css": "/marina17/static/css/main.0bc19ac2.chunk.css",
+    "main.js": "/marina17/static/js/main.78c96949.chunk.js",
+    "main.js.map": "/marina17/static/js/main.78c96949.chunk.js.map",
+    "runtime-main.js": "/marina17/static/js/runtime-main.14bf2fa2.js",
+    "runtime-main.js.map": "/marina17/static/js/runtime-main.14bf2fa2.js.map",
+    "static/js/2.495cec09.chunk.js": "/marina17/static/js/2.495cec09.chunk.js",
+    "static/js/2.495cec09.chunk.js.map": "/marina17/static/js/2.495cec09.chunk.js.map",
+    "static/css/3.e66c67d1.chunk.css": "/marina17/static/css/3.e66c67d1.chunk.css",
+    "static/js/3.9a838481.chunk.js": "/marina17/static/js/3.9a838481.chunk.js",
+    "static/js/3.9a838481.chunk.js.map": "/marina17/static/js/3.9a838481.chunk.js.map",
     "index.html": "/marina17/index.html",
-    "precache-manifest.dddbfc2550cded5c48cac3ffdff55876.js": "/marina17/precache-manifest.dddbfc2550cded5c48cac3ffdff55876.js",
+    "precache-manifest.14d954f5c9726c8d8163c6c76d46466e.js": "/marina17/precache-manifest.14d954f5c9726c8d8163c6c76d46466e.js",
     "service-worker.js": "/marina17/service-worker.js",
-    "static/css/3.b476e9f9.chunk.css.map": "/marina17/static/css/3.b476e9f9.chunk.css.map",
-    "static/css/4.e66c67d1.chunk.css.map": "/marina17/static/css/4.e66c67d1.chunk.css.map",
-    "static/css/main.1700a511.chunk.css.map": "/marina17/static/css/main.1700a511.chunk.css.map",
-    "static/js/2.84caf9ee.chunk.js.LICENSE.txt": "/marina17/static/js/2.84caf9ee.chunk.js.LICENSE.txt",
+    "static/css/3.e66c67d1.chunk.css.map": "/marina17/static/css/3.e66c67d1.chunk.css.map",
+    "static/css/main.0bc19ac2.chunk.css.map": "/marina17/static/css/main.0bc19ac2.chunk.css.map",
+    "static/js/2.495cec09.chunk.js.LICENSE.txt": "/marina17/static/js/2.495cec09.chunk.js.LICENSE.txt",
     "static/media/krolichek_white.svg": "/marina17/static/media/krolichek_white.26840400.svg",
     "static/media/loader.png": "/marina17/static/media/loader.1e473c9c.png",
     "static/media/ProfileInfo.module.css": "/marina17/static/media/shapes-bg.f7cdaf55.png",
@@ -27,9 +23,9 @@
     "static/media/wonderland_logo.png": "/marina17/static/media/wonderland_logo.e207211f.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.17ea16f9.js",
-    "static/js/2.84caf9ee.chunk.js",
-    "static/css/main.1700a511.chunk.css",
-    "static/js/main.df1d5670.chunk.js"
+    "static/js/runtime-main.14bf2fa2.js",
+    "static/js/2.495cec09.chunk.js",
+    "static/css/main.0bc19ac2.chunk.css",
+    "static/js/main.78c96949.chunk.js"
   ]
 }
